@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "esp32_freeRTOS_multi_peripherals",
+			"path": "../../../../../../../Users/nguyendoan/Documents/PlatformIO/Projects/esp32_freeRTOS_multi_peripherals"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.json": "jsonc",
+			"atomic": "cpp"
+		}
+	}
+}
