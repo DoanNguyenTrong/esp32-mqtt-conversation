@@ -1,4 +1,4 @@
 *.bin
-.code-workspace
+*.code-workspace
 .vscode/
 imgs/
